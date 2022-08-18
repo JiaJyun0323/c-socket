@@ -1,0 +1,16 @@
+C:\Users\k19\source\repos\socketServer\socketServer\bin\Debug\socketServer.exe.config
+C:\Users\k19\source\repos\socketServer\socketServer\bin\Debug\socketServer.exe
+C:\Users\k19\source\repos\socketServer\socketServer\bin\Debug\socketServer.pdb
+C:\Users\k19\source\repos\socketServer\socketServer\obj\Debug\socketServer.csproj.AssemblyReference.cache
+C:\Users\k19\source\repos\socketServer\socketServer\obj\Debug\socketServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\k19\source\repos\socketServer\socketServer\obj\Debug\MainWindow.g.cs
+C:\Users\k19\source\repos\socketServer\socketServer\obj\Debug\App.g.cs
+C:\Users\k19\source\repos\socketServer\socketServer\obj\Debug\socketServer_MarkupCompile.cache
+C:\Users\k19\source\repos\socketServer\socketServer\obj\Debug\socketServer_MarkupCompile.lref
+C:\Users\k19\source\repos\socketServer\socketServer\obj\Debug\MainWindow.baml
+C:\Users\k19\source\repos\socketServer\socketServer\obj\Debug\socketServer.g.resources
+C:\Users\k19\source\repos\socketServer\socketServer\obj\Debug\socketServer.Properties.Resources.resources
+C:\Users\k19\source\repos\socketServer\socketServer\obj\Debug\socketServer.csproj.GenerateResource.cache
+C:\Users\k19\source\repos\socketServer\socketServer\obj\Debug\socketServer.csproj.CoreCompileInputs.cache
+C:\Users\k19\source\repos\socketServer\socketServer\obj\Debug\socketServer.exe
+C:\Users\k19\source\repos\socketServer\socketServer\obj\Debug\socketServer.pdb
